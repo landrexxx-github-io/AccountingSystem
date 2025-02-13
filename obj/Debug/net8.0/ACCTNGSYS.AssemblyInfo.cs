@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACCTNGSYS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abb8bfbd209618e0d7e11aa5ebf904bf50c14ccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACCTNGSYS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACCTNGSYS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
